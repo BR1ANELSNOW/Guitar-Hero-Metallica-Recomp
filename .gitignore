@@ -1,0 +1,4 @@
+*.log
+GHM_SYNC_PROBE_*.csv
+ghm-launcher.toml
+guitar_hero_metallica.toml
