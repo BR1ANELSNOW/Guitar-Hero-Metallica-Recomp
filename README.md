@@ -41,4 +41,6 @@ Para abrir la configuración de ReXGlue durante el juego, usá **Shift + F4** o 
 
 Gracias por darle una oportunidad a esta Alpha. Si la probás y encontrás algo raro, contame qué pasó y con qué configuración estabas jugando.
 
+Sumate al [Discord de la comunidad](https://discord.gg/tpgEvR76S) para compartir tus pruebas, reportar errores y seguir las novedades.
+
 **brIAnelsnow** · Proyecto independiente y no oficial.
